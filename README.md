@@ -1,12 +1,4 @@
-# Hello, I'm Kyle
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-I am a recent graduate from Southern New Hampshire University with a B.S. in cybersecurity. I am driven to contribute my skills and knowledge to protect critical systems and data from cyber threats. 
-
-## Objective
-
-My journey throughout school has led me to develop an interest in offensive and digital forensics roles. 
+# Hello
 
 ## Skills
 
